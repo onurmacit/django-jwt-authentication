@@ -193,11 +193,11 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgments
 
-- [Django Rest Framework](#https://www.django-rest-framework.org/)
+- [Django Rest Framework](https://www.django-rest-framework.org/)
 
-- [djangorestframework-simplejwt](#https://django-rest-framework-simplejwt.readthedocs.io/en/latest/)
+- [djangorestframework-simplejwt](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/)
 
-- [Django Documentation](#https://docs.djangoproject.com/en/5.1/)
+- [Django Documentation](https://docs.djangoproject.com/en/5.1/)
 
 
 
