@@ -1,6 +1,8 @@
 # Django JWT Authentication
 
-This repository demonstrates how to implement **JWT (JSON Web Token) authentication** in Django Rest Framework (DRF). It includes user registration, login, and token refresh functionality, along with best practices for securing your API.
+This repository demonstrates how to implement **JWT (JSON Web Token) authentication** in Django Rest Framework (DRF). It includes user registration, login, and token refresh functionality, along with best practices for securing your API. You can access the [Article](https://medium.com/@onurmaciit/mastering-jwt-authentication-in-django-rest-framework-best-practices-and-techniques-d47f906f530a)
+ about this repo here 
+
 
 ## Features
 - **User Registration**: Create a new user account with a secure password (passwords are hidden in API responses).
@@ -200,15 +202,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [Django Documentation](https://docs.djangoproject.com/en/5.1/)
 
 
-
----
-
-### How to Use
-1. Copy the entire Markdown content above.
-2. Open your `README.md` file in your repository.
-3. Paste the content into the file and save it.
-4. Commit and push the changes to your repository:
-   ```bash
-   git add README.md
-   git commit -m "docs: add comprehensive README file"
-   git push origin main
